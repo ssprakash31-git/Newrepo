@@ -1,1 +1,2 @@
 welcome to GIT and GITHUB Project
+Now Jenkins connected to GitHub successfully.
